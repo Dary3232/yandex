@@ -753,7 +753,7 @@ img {
 
 .carousel__dots {
   position: relative;
-  top: 7px;
+  top: -10px;
   display: flex;
   justify-content: center;
 }
