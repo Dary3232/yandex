@@ -1,0 +1,18 @@
+@use "./global/variables" as *;
+@use "./global/fonts";
+
+@use "./blocks/page";
+@use "./blocks/header";
+@use "./blocks/container";
+@use "./blocks/footer";
+@use "./blocks/hero";
+@use "./blocks/running-line";
+@use "./blocks/support";
+@use "./blocks/del";
+@use "./blocks/steps";
+@use "./blocks/carousel";
+@use "./blocks/players";
+@use "./blocks/carousel-repeat";
+@use "./blocks/title";
+@use "./blocks/visually-hidden";
+@use "./blocks/button";
